@@ -14,9 +14,8 @@ import wave
 import requests
 import json
 
-API_KEY = "AIzaSyC_0pIA4PD94ErXmkqAM0Z24mXpzHWTr14"
-API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=" + API_KEY
-
+API_KEY = //add-api-key
+API_URL = //add-api-url
 class EmotionInterviewAssistant:
     def __init__(self):
         self.core = Core()
