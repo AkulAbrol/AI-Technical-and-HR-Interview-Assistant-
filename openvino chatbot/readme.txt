@@ -190,9 +190,7 @@ We welcome contributions:
 3. Submit pull request
 4. Follow coding standards
 
-## 📝 License
 
-MIT License - free to use and modify
 
 ## 🙏 Acknowledgments
 
@@ -201,13 +199,7 @@ MIT License - free to use and modify
 - HuggingFace Community
 - Streamlit Developers
 
-## 📞 Support
 
-For support:
-- GitHub Issues
-- Documentation Wiki
-- Community Forum
-- Email Support
 
 ---
 
@@ -222,6 +214,4 @@ Planned features:
 
 ---
 
-Made with ❤️ using OpenVINO and Python
 
-For more information, contact: [Your Contact Information]
